@@ -22,7 +22,6 @@ class IndexPage extends React.Component {
         <h1>
           Machine Learning saving one ecosystem at a time{" "}
           <span role="img" aria-label="wave emoji">
-            👋
           </span>
         </h1>
         <p>
@@ -48,17 +47,33 @@ class IndexPage extends React.Component {
         <p>
         The applications of machine learning in the environment are endless. Let us take an example of
         The Mara Elephant Project, where the kenyan wildlife rangers have collaborated with Social Good of
-        Intel and The Resolve NGO to develop trail guard, which is an early warning sysytem to help arrest
-        poachers. The Mara Elephant Project is one of success story among several others which provides hope.
-        </p>
+        Intel and The Resolve NGO to develop trail guard, which is an early warning system to help arrest
+        poachers. The algorithm takes the pictures captured from a mount camera and using shape recognition
+        and other feautures that form the feature parameters is able to send out an alarm in the case where
+        a human being passes in close proximity informing the rangers in advance of an eminent poaching activity.
+        The Mara Elephant Project is one of success story among several others which provides hope.
         </p>
         <p>
-        Another example is NOTCO, an organization based in Santiago Chile, which is using Giuseppe AI to 
+        Another example is NotCo, an organization based in Santiago Chile, which is using Giuseppe AI to 
         mimick the perception of people on their taste of animal based food and replace them with plant
-        based food which tastes the same if not better. This is bacause animals reared especially for 
-        consumption account for most of the ethane emitted to the atmosphere which leads to increased 
-        global warming. These are just some of the examples, with machine learning there are endless 
-        possibilities on how to better coexist with the environment.
+        based food which tastes the same if not better. The algorithm looks at the molecular constitution of animal
+        based foods and creates a list of ingredients from the most basic building blocks and using machine learning
+        and a database recombines select elements from plant based foods to recreate the taste and texture of the 
+        original animal based food. Basically saving the planet by reducing meat consumption.
+        This is bacause animals reared especially for consumption account for most of the ethane emitted to the 
+        atmosphere which leads to increased global warming. These are just some of the examples, with machine 
+        learning there are endless possibilities on how to better coexist with the environment.
+        </p>
+        <p>
+        With that knowledge, my proposed solution is helping to end world hunger using machine learning. Using the
+        available data on soils, weather patterns and ideal conditions for the growth of diffent food crops as 
+        the features to train a machine learning model that gives the ideal food crop to be grown in a particular region.
+        Take the example of the upper North Eastern Kenya region, it is mostly dry with high temperatures and sandy soils
+        and with those conditions it may not be able to support the growth of maize but can offer an alternative like portulaca
+        which is more resistant to the harsh conditions and offers food security to the residents.
+        </p>
+        <p>
+        by Francis Macharia.
         </p>
          {/* href to the blog  */}
         <a href='https://www.youtube.com' target="_blank">
