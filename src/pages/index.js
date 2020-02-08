@@ -51,7 +51,7 @@ class IndexPage extends React.Component {
         Intel and The Resolve NGO to develop trail guard, which is an early warning sysytem to help arrest
         poachers. The Mara Elephant Project is one of success story among several others which provides hope.
         </p>
-        </p>
+        
         <p>
         Another example is NOTCO, an organization based in Santiago Chile, which is using Giuseppe AI to 
         mimick the perception of people on their taste of animal based food and replace them with plant
