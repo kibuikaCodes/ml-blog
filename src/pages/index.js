@@ -71,6 +71,7 @@ class IndexPage extends React.Component {
         Take the example of the upper North Eastern Kenya region, it is mostly dry with high temperatures and sandy soils
         and with those conditions it may not be able to support the growth of maize but can offer an alternative like portulaca
         which is more resistant to the harsh conditions and offers food security to the residents.
+        Think about it.
         </p>
         <p>
         by Francis Macharia.
