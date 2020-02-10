@@ -83,7 +83,7 @@ class IndexPage extends React.Component {
         by Francis Macharia.
         </p>
          {/* href to the blog  */}
-        <a href='https://www.youtube.com' target="_blank">
+        <a href='https://www.youtube.com/watch?v=ZYnS2tUBwGU&feature=youtu.be' target="_blank">
           Here is the link to a related vlog
         </a>
       </Layout>
